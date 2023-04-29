@@ -1,8 +1,7 @@
 # geocoded
-Geocoding Using Geopy & Python
+##Geocoding Using Geopy & Python
 
-Geocoding is the process of converting a human-readable address or location description (such as a street address, city name, or landmark) into geographic coordinates (such as latitude and longitude). This allows the address or location to be accurately plotted on a map or used in a geographic information system (GIS).
-
+###Geocoding is the process of converting a human-readable address or location description (such as a street address, city name, or landmark) into geographic coordinates (such as latitude and longitude). This allows the address or location to be accurately plotted on a map or used in a geographic information system (GIS).
 Geocoding is typically performed by software programs called geocoders, which use a combination of reference data, algorithms, and heuristics to match the input address or location description to a specific geographic location. The reference data used by geocoders can include street maps, address databases, and satellite imagery, among others.
 
 Geocoding is used in a variety of applications, such as mapping and navigation software, emergency services, and location-based advertising. It is also an important tool for urban planners, environmental scientists, and other professionals who need to analyze and visualize spatial data.
